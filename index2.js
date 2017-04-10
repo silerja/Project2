@@ -1,5 +1,6 @@
 //quiz function
  	var question = 'Who is this?'
+ 		document.write("<img src='C:\Users\Joe Siler\Desktop\semester pics\silerja.jpeg' alt='alt tag' border=0>");
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'
 
