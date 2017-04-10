@@ -4,7 +4,7 @@ var Image = require('../Pics');
 describe('The function to import an image.', () => {
 
 	it('can import a picture of Joe', () => {
-		expect(Image).toBe('foo')
+		expect(Images[0]).toBe('C:\Users\Joe Siler\Desktop\semester pics\silerja')
 	});
 
 });

@@ -1,6 +1,9 @@
 //quiz function
+var question = require('./Pics');
+
+
  	var question = 'Who is this?'
- 		document.write("<img src='C:\Users\Joe Siler\Desktop\semester pics\silerja.jpeg' alt='alt tag' border=0>");
+ 		console.log(images[0]);
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'
 
