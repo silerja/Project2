@@ -1,9 +1,9 @@
 //quiz function
-var question = require('./Pics');
+//(function({ require('../Pics');
 
 
  	var question = 'Who is this?'
- 		console.log(images[0]);
+ 		//console.log(images[0]);
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'
 
@@ -14,3 +14,4 @@ var question = require('./Pics');
     var question = 'Who do you think this is?'
     	choices = ['Cordell','Joe','Scott'],
     	answer2 = 'Scott'
+//});
