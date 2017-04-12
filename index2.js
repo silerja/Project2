@@ -1,9 +1,7 @@
 //quiz function
 //(function({ require('../Pics');
 
-
  	var question = 'Who is this?'
- 		//console.log(images[0]);
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'
 

@@ -8,7 +8,7 @@ describe('The function to import an image.', () => {
 	});
 
 	it('can import a picture of Joe', () => {
-		expect(Images[0]).toBe('C:\Users\Joe Siler\Desktop\semester pics\silerja')
+		expect('C:\Users\Joe Siler\Desktop\semester pics\silerja').toBe(true)
 	});
 
 });
