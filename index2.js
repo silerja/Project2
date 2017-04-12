@@ -1,6 +1,5 @@
 //quiz function
 //(function({ require('../Pics');
-
  	var question = 'Who is this?'
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'

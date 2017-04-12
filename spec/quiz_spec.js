@@ -1,5 +1,5 @@
 //import code from index to test
-var Image = require('../Pics');
+var images = require('../Pics');
 
 describe('The function to import an image.', () => {
 
@@ -8,7 +8,7 @@ describe('The function to import an image.', () => {
 	});
 
 	it('can import a picture of Joe', () => {
-		expect('C:\Users\Joe Siler\Desktop\semester pics\silerja').toBe(true)
+		expect().toBe()
 	});
 
 });

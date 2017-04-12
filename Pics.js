@@ -13,10 +13,10 @@
 //
 //
 
-//function Image(){
-//	var img = new Array();
+function Image(){
+	var img = new Array();
 
-//	image[0] = 'C:\Users\Joe Siler\Desktop\semester pics\silerja'
-//	image[1] = 'C:\Users\Joe Siler\Desktop\semester pics\laynese'
-//	image[2] = 'C:\Users\Joe Siler\Desktop\semester pics\mccurrcb'
-//}
+	image[0] = 'C:\Users\Joe Siler\Desktop\semester pics\silerja'
+	image[1] = 'C:\Users\Joe Siler\Desktop\semester pics\laynese'
+	image[2] = 'C:\Users\Joe Siler\Desktop\semester pics\mccurrcb'
+}
