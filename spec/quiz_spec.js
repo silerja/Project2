@@ -26,6 +26,8 @@ describe('The answer to the question "Who is this?"', () => {
 		expect(answer2).toBe('Scott');
 	});
 
+	//Refactored the test this is optional code 
+	//for how it use to be.
 	//it('can tell you if you are right or wrong for the second question', () => {
 	//	expect(answer1).toBe('Cordell');
 	//});
