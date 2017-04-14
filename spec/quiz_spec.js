@@ -3,6 +3,10 @@ var image = require('../Pics')
 
 describe('a program to call pics from a list.', () => {
 
+	it('can blow smoke', () => {
+		expect(true).toBe(true);
+	});
+
 	it('can get the roster of people', () => {
 		expect(image.getRoster() instanceof Array).toBe(true);
 	});
