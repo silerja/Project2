@@ -1,3 +1,5 @@
+//start of what I need to get pictures into quiz
+
 let fs = require('fs');
 
 let getRoster = () => {
@@ -6,6 +8,7 @@ let getRoster = () => {
 	return[];
 };
 
+//export roster for use in other componets
 module.exports = {
 	getRoster: getRoster
 };

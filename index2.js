@@ -1,5 +1,5 @@
 //quiz function
-
+// firtst three questions of quiz 
  	var question = 'Who is this?'
     	choices = ['Joe','Cordell', 'Scott'],
     	answer0 = 'Joe'
